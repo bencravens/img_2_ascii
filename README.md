@@ -9,4 +9,4 @@ gedit out.txt
 ```
 
 Here the first arg is the file to be converted, the second arg is the vertical downscaling, and the 
-third argument is the ascii scale to use (a range of ascii characters which correspond to lighter->darker pixels)
+third argument is the ascii scale to use (a range of ascii characters which correspond to a scale of darkest->lightest pixels)
